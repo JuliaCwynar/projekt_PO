@@ -1,4 +1,4 @@
-# projekt_PO
+# Sudoku Assistant
 
 ## Projekt, który na podstawie backtrackingu rozwiązuje plansze sudoku.
 * Pliki wejściowe to liczby, które po sfromatowaniu tworzą plansze sudoku w ilości 28001.
