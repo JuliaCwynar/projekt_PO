@@ -8,4 +8,3 @@ Projekt, który na podstawie backtrackingu rozwiązuje plansze sudoku.
 -Program główny oblicza statystyki dotyczące czasu rozwiązywania plansz (najkrótsze i najdłuższe czasy rozwiązań, średnia, mediana, odchylenie standardowe)
 -Program główny oblicza statystyki związane z liczbami w wejściowych nierozwiązanych planszach sudoku - ilość występowania konkretnej liczby w poszczególnym rzędzie, kolumnie, kwadracie 3x3 oraz ilość wystąpienia liczby ogółem we wszystkich planszach;
 -Program daje możliwość rozwiązania konrketnej planszy sudoku z 28001 dostępnych, wyświetla plansze przed i po rozwiązaniu oraz jej czas rozwiązania;
--
