@@ -1,0 +1,4 @@
+﻿  Statistics.cpp
+C:\Sudoku Assistant\Sudoku Assistant\Statistics.cpp(150,43): warning C4244: "=": konwersja z "long double" do "__int64", możliwa utrata danych
+C:\Sudoku Assistant\Sudoku Assistant\Statistics.cpp(162,40): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Sudoku Assistant.vcxproj -> C:\Sudoku Assistant\x64\Debug\Sudoku Assistant.exe

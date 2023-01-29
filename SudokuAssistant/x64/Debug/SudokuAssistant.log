@@ -1,7 +1,0 @@
-﻿  ReadFile.cpp
-C:\SudokuAssistant\SudokuAssistant\ReadFile.cpp(30,13): warning C4101: "Digit": lokalna zmienna, do której nie istnieje odwołanie
-  SudokuAssistant.cpp
-C:\SudokuAssistant\SudokuAssistant\ReadFile.cpp(30,13): warning C4101: "Digit": lokalna zmienna, do której nie istnieje odwołanie
-  sudokuSolver.cpp
-  Generowanie kodu...
-  SudokuAssistant.vcxproj -> C:\SudokuAssistant\x64\Debug\SudokuAssistant.exe
